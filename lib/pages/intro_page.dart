@@ -20,7 +20,7 @@ class IntroPage extends StatelessWidget {
 
                 //shop name
                 Text(
-                  "SUSHI MAN",
+                  "SUSHI BOY",
                   style: GoogleFonts.dmSerifDisplay(
                     fontSize: 28,
                     color: Colors.white,
